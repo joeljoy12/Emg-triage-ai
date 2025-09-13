@@ -1,0 +1,21 @@
+age,sex,description,resp_rate,pulse,cap_refill,expected_triage
+25,M,"Not breathing until airway opened, then resumes breathing",0,weak,>2,Immediate
+40,M,"Heavy forearm bleeding, pale, dizzy, responsive to voice",28,fast,>2,Immediate
+7,F,"Respiratory rate 45/min, gasping",45,fast,>2,Immediate
+33,M,"Unconscious, breathing but not following commands",32,weak,3,Immediate
+65,F,"Severe chest injury, respiratory rate 35",35,fast,3,Immediate
+19,M,"Open arm fracture, controlled bleeding, normal breathing",20,strong,<2,Delayed
+30,M,"Stable vital signs, leg fracture, can follow commands",22,strong,<2,Delayed
+60,F,"Burns on arm and chest, airway intact, speaking clearly",18,strong,<2,Delayed
+45,M,"Stable, broken femur, severe pain but alert",22,strong,<2,Delayed
+27,F,"Arm laceration, bleeding controlled, alert and calm",18,strong,<2,Delayed
+15,M,"Walking with small cuts, talking clearly",18,strong,<2,Minor
+22,F,"Sprained ankle, moving independently",20,strong,<2,Minor
+35,M,"Mild hand burns, alert, walking",19,strong,<2,Minor
+12,F,"Walking, small nosebleed, responsive",20,strong,<2,Minor
+28,M,"Minor scratches, alert, walking unaided",18,strong,<2,Minor
+50,M,"No breathing even after airway reposition",0,none,>2,Expectant
+70,F,"Unresponsive, pulseless",0,none,>2,Expectant
+45,M,"Massive head injury, not responsive, no spontaneous breathing",0,none,>2,Expectant
+80,F,"Collapsed, no pulse, no breathing",0,none,>2,Expectant
+65,M,"Unresponsive after blunt trauma, not breathing despite airway reposition",0,none,>2,Expectant

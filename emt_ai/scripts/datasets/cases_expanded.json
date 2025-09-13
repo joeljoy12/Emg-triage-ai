@@ -1,0 +1,1802 @@
+[
+  {
+    "description": "40F, gasping for air, RR 36, able to answer questions",
+    "vitals": {
+      "resp_rate": 36,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "12F, gasping for air, RR 40, speaking",
+    "vitals": {
+      "resp_rate": 40,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40F, breathing fast, RR 32, able to answer questions",
+    "vitals": {
+      "resp_rate": 32,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65F, gasping for air, RR 36, able to answer questions",
+    "vitals": {
+      "resp_rate": 36,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65M, gasping for air, RR 42, speaking",
+    "vitals": {
+      "resp_rate": 42,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7M, gasping for air, RR 32, speaking",
+    "vitals": {
+      "resp_rate": 32,
+      "pulse": "normal",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25F, breathing very fast, RR 38, able to answer questions",
+    "vitals": {
+      "resp_rate": 38,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25F, breathing fast, RR 31, speaking in short phrases",
+    "vitals": {
+      "resp_rate": 31,
+      "pulse": "normal",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40M, breathing rapidly, RR 40, speaking in short phrases",
+    "vitals": {
+      "resp_rate": 40,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65F, breathing fast, RR 31, able to answer questions",
+    "vitals": {
+      "resp_rate": 31,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40M, breathing rapidly, RR 42, speaking in short phrases",
+    "vitals": {
+      "resp_rate": 42,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7M, breathing very fast, RR 32, speaking",
+    "vitals": {
+      "resp_rate": 32,
+      "pulse": "normal",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40F, breathing fast, RR 36, able to answer questions",
+    "vitals": {
+      "resp_rate": 36,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25F, breathing rapidly, RR 31, speaking in short phrases",
+    "vitals": {
+      "resp_rate": 31,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40M, breathing very fast, RR 32, able to answer questions",
+    "vitals": {
+      "resp_rate": 32,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7M, tachypneic, RR 36, speaking",
+    "vitals": {
+      "resp_rate": 36,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40M, breathing very fast, RR 40, speaking in short phrases",
+    "vitals": {
+      "resp_rate": 40,
+      "pulse": "normal",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7F, breathing very fast, RR 36, speaking",
+    "vitals": {
+      "resp_rate": 36,
+      "pulse": "normal",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65F, breathing very fast, RR 31, speaking",
+    "vitals": {
+      "resp_rate": 31,
+      "pulse": "normal",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65M, breathing very fast, RR 31, speaking",
+    "vitals": {
+      "resp_rate": 31,
+      "pulse": "normal",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40F, signs of poor circulation, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "12F, skin pale and clammy, RR 18",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25F, signs of poor circulation, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "weak",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65M, signs of poor circulation, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "weak",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40F, skin pale and clammy, RR 20",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "weak",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7M, signs of poor circulation, RR 18",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40M, weak pulse, RR 18",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "weak",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7F, weak pulse, RR 24",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "12F, signs of poor circulation, RR 26",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "weak",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7M, weak pulse, RR 26",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65F, signs of poor circulation, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40F, weak pulse, RR 26",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "weak",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "12F, skin pale and clammy, RR 22",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25M, thready pulse, RR 22",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25F, signs of poor circulation, RR 26",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "weak",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25F, not responding, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "80M, not responding, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "12M, unresponsive, RR 20",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65M, unconscious, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7F, not following commands, RR 20",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "7F, unresponsive, RR 20",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25F, cannot follow commands, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "12F, not responding, RR 22",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40F, unconscious, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40F, unresponsive, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "25F, cannot follow commands, RR 28",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65M, cannot follow commands, RR 24",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "65M, not responding, RR 22",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "12F, unconscious, RR 22",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "40F, unconscious, RR 26",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Immediate"
+  },
+  {
+    "description": "12M, bleeding controlled, speaking clearly, RR 22, calm and responsive",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65M, fracture present, stable, RR 28, calm and responsive",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "40F, injured but stable, RR 24, calm and responsive",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20F, bleeding controlled, speaking clearly, RR 22, calm and responsive",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65M, burns limited area, airway intact, RR 20, answers questions clearly",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65F, injured but stable, RR 20, answers questions clearly",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12M, bleeding controlled, speaking clearly, RR 26, alert and follows commands",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12F, fracture present, stable, RR 20, calm and responsive",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "50F, injured but stable, RR 26, answers questions clearly",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65M, burns limited area, airway intact, RR 26, answers questions clearly",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65F, injured but stable, RR 20, answers questions clearly",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "40M, fracture present, stable, RR 22, answers questions clearly",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20F, burns limited area, airway intact, RR 22, calm and responsive",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12M, bleeding controlled, speaking clearly, RR 18, calm and responsive",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12M, fracture present, stable, RR 20, alert and follows commands",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65M, fracture present, stable, RR 24, answers questions clearly",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20F, bleeding controlled, speaking clearly, RR 24, calm and responsive",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "40F, burns limited area, airway intact, RR 24, alert and follows commands",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "30F, follows commands, stable vitals, RR 24, calm and responsive",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "50F, burns limited area, airway intact, RR 18, alert and follows commands",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "40F, fracture present, stable, RR 26, alert and follows commands",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65F, injured but stable, RR 24, calm and responsive",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65F, bleeding controlled, speaking clearly, RR 24, calm and responsive",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "30M, burns limited area, airway intact, RR 18, calm and responsive",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "30M, injured but stable, RR 24, alert and follows commands",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20F, injured but stable, RR 18, answers questions clearly",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "50F, bleeding controlled, speaking clearly, RR 26, calm and responsive",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12M, follows commands, stable vitals, RR 20, alert and follows commands",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20F, bleeding controlled, speaking clearly, RR 26, alert and follows commands",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20M, bleeding controlled, speaking clearly, RR 26, calm and responsive",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65F, burns limited area, airway intact, RR 18, answers questions clearly",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65M, follows commands, stable vitals, RR 26, calm and responsive",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "40F, fracture present, stable, RR 20, answers questions clearly",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "50F, burns limited area, airway intact, RR 24, alert and follows commands",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20F, bleeding controlled, speaking clearly, RR 24, alert and follows commands",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "30M, follows commands, stable vitals, RR 20, alert and follows commands",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65M, bleeding controlled, speaking clearly, RR 20, calm and responsive",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "40M, fracture present, stable, RR 26, alert and follows commands",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12F, bleeding controlled, speaking clearly, RR 28, answers questions clearly",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "40F, fracture present, stable, RR 20, alert and follows commands",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12M, follows commands, stable vitals, RR 28, alert and follows commands",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12M, bleeding controlled, speaking clearly, RR 28, answers questions clearly",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65M, fracture present, stable, RR 26, calm and responsive",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "30F, injured but stable, RR 22, calm and responsive",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12M, fracture present, stable, RR 18, alert and follows commands",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "12M, injured but stable, RR 18, answers questions clearly",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "30M, fracture present, stable, RR 20, answers questions clearly",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20M, fracture present, stable, RR 24, calm and responsive",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "65M, injured but stable, RR 22, calm and responsive",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20F, burns limited area, airway intact, RR 28, answers questions clearly",
+    "vitals": {
+      "resp_rate": 28,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Delayed"
+  },
+  {
+    "description": "20M, walking, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20M, walking, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20F, walking, RR 20, calm and coherent",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30F, moving independently, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50F, ambulatory, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20F, ambulatory, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30F, walking and talking, RR 20, calm and coherent",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50F, walking, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50F, walking and talking, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30F, walking, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50M, ambulatory, RR 20, calm and coherent",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20M, walking and talking, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50M, walking, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50M, walking unaided, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30F, ambulatory, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20F, ambulatory, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30F, moving independently, RR 20, calm and coherent",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50F, walking unaided, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10F, ambulatory, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10F, walking unaided, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10F, moving independently, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10M, walking, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30M, walking and talking, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50F, walking and talking, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10F, walking and talking, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50M, walking unaided, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30M, walking, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10F, walking unaided, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30M, moving independently, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50F, walking, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50F, moving independently, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50M, moving independently, RR 20, calm and coherent",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20F, moving independently, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30M, moving independently, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50F, walking and talking, RR 18, calm and coherent",
+    "vitals": {
+      "resp_rate": 18,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30M, walking, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20M, walking unaided, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30M, walking, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30F, walking and talking, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50M, walking and talking, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10M, walking unaided, RR 20, calm and coherent",
+    "vitals": {
+      "resp_rate": 20,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20M, walking and talking, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30F, ambulatory, RR 24, calm and coherent",
+    "vitals": {
+      "resp_rate": 24,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10F, ambulatory, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "30F, walking and talking, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "50M, moving independently, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "20F, ambulatory, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10F, ambulatory, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10M, ambulatory, RR 22, calm and coherent",
+    "vitals": {
+      "resp_rate": 22,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "10F, ambulatory, RR 26, calm and coherent",
+    "vitals": {
+      "resp_rate": 26,
+      "pulse": "strong",
+      "cap_refill": "<2"
+    },
+    "expected_triage": "Minor"
+  },
+  {
+    "description": "70F, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70M, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70F, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70F, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80F, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65F, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70F, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50F, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50F, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50M, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65F, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50M, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80F, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50M, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50M, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70M, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50M, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65M, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65F, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80F, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70M, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "50F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65F, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "65F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "70F, not breathing even after airway reposition, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, apneic despite airway, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  },
+  {
+    "description": "80M, no breathing and pulseless, RR 0",
+    "vitals": {
+      "resp_rate": 0,
+      "pulse": "none",
+      "cap_refill": ">2"
+    },
+    "expected_triage": "Expectant"
+  }
+]

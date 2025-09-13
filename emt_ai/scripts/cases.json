@@ -1,0 +1,142 @@
+[
+  {
+    "age": 25,
+    "sex": "M",
+    "description": "Not breathing until airway opened, then resumes breathing",
+    "vitals": { "resp_rate": 0, "pulse": "weak", "cap_refill": ">2" },
+    "expected_triage": "Immediate"
+  },
+  {
+    "age": 40,
+    "sex": "M",
+    "description": "Heavy forearm bleeding, pale, dizzy, responsive to voice",
+    "vitals": { "resp_rate": 28, "pulse": "fast", "cap_refill": ">2" },
+    "expected_triage": "Immediate"
+  },
+  {
+    "age": 7,
+    "sex": "F",
+    "description": "Respiratory rate 45/min, gasping",
+    "vitals": { "resp_rate": 45, "pulse": "fast", "cap_refill": ">2" },
+    "expected_triage": "Immediate"
+  },
+  {
+    "age": 33,
+    "sex": "M",
+    "description": "Unconscious, breathing but not following commands",
+    "vitals": { "resp_rate": 32, "pulse": "weak", "cap_refill": 3 },
+    "expected_triage": "Immediate"
+  },
+  {
+    "age": 65,
+    "sex": "F",
+    "description": "Severe chest injury, respiratory rate 35",
+    "vitals": { "resp_rate": 35, "pulse": "fast", "cap_refill": 3 },
+    "expected_triage": "Immediate"
+  },
+  {
+    "age": 19,
+    "sex": "M",
+    "description": "Open arm fracture, controlled bleeding, normal breathing",
+    "vitals": { "resp_rate": 20, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Delayed"
+  },
+  {
+    "age": 30,
+    "sex": "M",
+    "description": "Stable vital signs, leg fracture, can follow commands",
+    "vitals": { "resp_rate": 22, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Delayed"
+  },
+  {
+    "age": 60,
+    "sex": "F",
+    "description": "Burns on arm and chest, airway intact, speaking clearly",
+    "vitals": { "resp_rate": 18, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Delayed"
+  },
+  {
+    "age": 45,
+    "sex": "M",
+    "description": "Stable, broken femur, severe pain but alert",
+    "vitals": { "resp_rate": 22, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Delayed"
+  },
+  {
+    "age": 27,
+    "sex": "F",
+    "description": "Arm laceration, bleeding controlled, alert and calm",
+    "vitals": { "resp_rate": 18, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Delayed"
+  },
+  {
+    "age": 15,
+    "sex": "M",
+    "description": "Walking with small cuts, talking clearly",
+    "vitals": { "resp_rate": 18, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Minor"
+  },
+  {
+    "age": 22,
+    "sex": "F",
+    "description": "Sprained ankle, moving independently",
+    "vitals": { "resp_rate": 20, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Minor"
+  },
+  {
+    "age": 35,
+    "sex": "M",
+    "description": "Mild hand burns, alert, walking",
+    "vitals": { "resp_rate": 19, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Minor"
+  },
+  {
+    "age": 12,
+    "sex": "F",
+    "description": "Walking, small nosebleed, responsive",
+    "vitals": { "resp_rate": 20, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Minor"
+  },
+  {
+    "age": 28,
+    "sex": "M",
+    "description": "Minor scratches, alert, walking unaided",
+    "vitals": { "resp_rate": 18, "pulse": "strong", "cap_refill": "<2" },
+    "expected_triage": "Minor"
+  },
+  {
+    "age": 50,
+    "sex": "M",
+    "description": "No breathing even after airway reposition",
+    "vitals": { "resp_rate": 0, "pulse": "none", "cap_refill": ">2" },
+    "expected_triage": "Expectant"
+  },
+  {
+    "age": 70,
+    "sex": "F",
+    "description": "Unresponsive, pulseless",
+    "vitals": { "resp_rate": 0, "pulse": "none", "cap_refill": ">2" },
+    "expected_triage": "Expectant"
+  },
+  {
+    "age": 45,
+    "sex": "M",
+    "description": "Massive head injury, not responsive, no spontaneous breathing",
+    "vitals": { "resp_rate": 0, "pulse": "none", "cap_refill": ">2" },
+    "expected_triage": "Expectant"
+  },
+  {
+    "age": 80,
+    "sex": "F",
+    "description": "Collapsed, no pulse, no breathing",
+    "vitals": { "resp_rate": 0, "pulse": "none", "cap_refill": ">2" },
+    "expected_triage": "Expectant"
+  },
+  {
+    "age": 65,
+    "sex": "M",
+    "description": "Unresponsive after blunt trauma, not breathing despite airway reposition",
+    "vitals": { "resp_rate": 0, "pulse": "none", "cap_refill": ">2" },
+    "expected_triage": "Expectant"
+  }
+]
